@@ -1,0 +1,15 @@
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\bin\Debug\net10.0\Day3Session.exe
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\bin\Debug\net10.0\Day3Session.deps.json
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\bin\Debug\net10.0\Day3Session.runtimeconfig.json
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\bin\Debug\net10.0\Day3Session.dll
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\bin\Debug\net10.0\Day3Session.pdb
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.AssemblyInfoInputs.cache
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.AssemblyInfo.cs
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.csproj.CoreCompileInputs.cache
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.sourcelink.json
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.dll
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\refint\Day3Session.dll
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.pdb
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\Day3Session.genruntimeconfig.cache
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day3Session\obj\Debug\net10.0\ref\Day3Session.dll

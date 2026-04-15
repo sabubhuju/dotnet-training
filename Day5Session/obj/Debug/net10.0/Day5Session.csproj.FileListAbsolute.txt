@@ -1,0 +1,15 @@
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\bin\Debug\net10.0\Day5Session.exe
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\bin\Debug\net10.0\Day5Session.deps.json
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\bin\Debug\net10.0\Day5Session.runtimeconfig.json
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\bin\Debug\net10.0\Day5Session.dll
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\bin\Debug\net10.0\Day5Session.pdb
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.AssemblyInfoInputs.cache
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.AssemblyInfo.cs
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.csproj.CoreCompileInputs.cache
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.sourcelink.json
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.dll
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\refint\Day5Session.dll
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.pdb
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\Day5Session.genruntimeconfig.cache
+C:\Users\sabub\OneDrive\Desktop\Sabu\Practise\Day5Session\obj\Debug\net10.0\ref\Day5Session.dll
